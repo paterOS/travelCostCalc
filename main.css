@@ -1,0 +1,8 @@
+.calc-form {
+    display: flex;
+    flex-direction: column;
+}
+
+.calc-form input {
+    width: 10rem
+}
